@@ -29,7 +29,7 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/alex_vasilev13)
-- [Kaggle]()
+- [Kaggle](https://www.kaggle.com/alexandr25)
 
 ---
 
